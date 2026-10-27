@@ -1,4 +1,5 @@
-#FileManagementAssistant：文件管理辅助器
+# FileManagementAssistant：文件管理辅助器
+
 一款简洁的 Windows 桌面工具，集中管理文件、文件夹、软件快捷方式和网页链接，双击即可打开。
 
 支持拖动排序、软件按序启动、图文剪贴板和贴边悬浮球，内容与设置自动保存。
